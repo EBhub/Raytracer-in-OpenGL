@@ -1,0 +1,6 @@
+[bB]uild/
+.idea/
+.vs/
+cmake-build/
+render.bmp
+cmake-build-debug/
