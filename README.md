@@ -1,2 +1,2 @@
-# CG38
-Computer Graphics group 38
+# Raytracer
+Built a raytracer in openGL for the course Computer Graphics.
